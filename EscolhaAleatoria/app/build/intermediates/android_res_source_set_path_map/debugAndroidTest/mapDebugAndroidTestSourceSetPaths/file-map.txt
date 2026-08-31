@@ -1,0 +1,5 @@
+com.exemplo.escolhaaleatoria.test.app-updated_navigation_xml-0 C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.exemplo.escolhaaleatoria.test.app-packageDebugAndroidTestResources-1 C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\merged.dir
+com.exemplo.escolhaaleatoria.test.app-packageDebugAndroidTestResources-2 C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\build\intermediates\incremental\debugAndroidTest\packageDebugAndroidTestResources\stripped.dir
+com.exemplo.escolhaaleatoria.test.app-debugAndroidTest-3 C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
+gradleHome-0 C:\Users\kaios\.gradle

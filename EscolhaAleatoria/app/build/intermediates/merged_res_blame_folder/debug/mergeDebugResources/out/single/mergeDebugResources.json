@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\drawable_estrela.png.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\drawable\\estrela.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\mipmap-anydpi-v26_icone.png.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\mipmap-anydpi-v26\\icone.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/drawable-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\mipmap-anydpi-v26_icon_round.png.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\mipmap-anydpi-v26\\icon_round.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-debug-40:\\mipmap-anydpi-v26_icone2.PNG.flat",
+        "source": "C:\\Users\\kaios\\.gradle\\daemon\\9.5.0\\com.exemplo.escolhaaleatoria.app-main-42:\\mipmap-anydpi-v26\\icone2.PNG"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.exemplo.escolhaaleatoria.app-debug-40:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.exemplo.escolhaaleatoria.app-main-42:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

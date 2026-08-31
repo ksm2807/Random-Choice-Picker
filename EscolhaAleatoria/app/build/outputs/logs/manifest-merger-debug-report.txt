@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:1:1-10:12
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:1:1-10:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\236941dd3d101ad80a16141490387072\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1be9a881eb1fc51636082ea72d36ac1b\transformed\activity-compose-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1304da2b70224ebf8c774ba9d8050991\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\de8d537a2afc5f50491e45d2aa611e1e\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b83f6bf65c5d8db4667d1128ea3a3db7\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c343ce04db1986eedb8274127d6ba25f\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\998b97e7a26abde32164a2d4e30ef664\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\65c6cafa850e5bc42b9b6dd4918f1897\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\74a94e519468a5d2fb060377f8944b19\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\97abb8ea0aae22c47677be8e9b3d32c7\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f4e0628d2aa80768e9c0a4435528bab3\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\906ca4284c2fa72fe8a426bace389f7e\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2a44f1cf10fcee38c45d8a2525e16da9\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3909ffe82b0207cec50a93f70ac6c888\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\52786a7ac9b58fa7fd41944675f3e4b4\transformed\activity-ktx-1.9.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\82040f35885d9815622e78788e624b36\transformed\activity-1.9.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1ed8eb481d1adb35abb688bce82a5283\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\161469b8c6080d1486d5cd869cd57d5e\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4adc37bacd5d22ba2312401cffc1b063\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\0424446f18fd51fdc901c35613ac3f39\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\67fbfd7b026d46b6fc600630311e9046\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f134ca90cc1eb8aa74e6687d1d0a2d6e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\14b38d15f3e333bc7da54315d42ce857\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aab3988ca1df03725f710ec8512a6ca1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\7ca032d7d5c1a04cfe7b729e5ef19cfa\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\df7d8df45a73e7e0bca7a60474917767\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\982a7ac726c01730271022c74aa805b7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b808d6a678c24577cae8f49336562da3\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aa734d9b507f2f577d24fbd52290fe91\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c64bac3cdfd83751dfc29cc96118ede8\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\41b85097da6e20c724c91da8fe2bd92d\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\5c4d020356cedc1566ea3463989a2a05\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2f1deae17e4e51d7a70d0f9d2e5988e9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\617460aeb0f38576ec5b07df7a279620\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\86c893662776cc7ea25a1896387db3cc\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1244535400ce6568d4bf006eb800166e\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:5-9:19
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:5-9:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2f1deae17e4e51d7a70d0f9d2e5988e9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2f1deae17e4e51d7a70d0f9d2e5988e9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:159-185
+	android:label
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:126-158
+	android:roundIcon
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:80-125
+	android:icon
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:45-79
+	android:allowBackup
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:18-44
+	android:theme
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:2:186-231
+activity#com.exemplo.escolhaaleatoria.MainActivity
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:3:9-8:20
+	android:label
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:3:72-104
+	android:exported
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:3:48-71
+	android:name
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:3:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:4:13-7:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:5:17-68
+	android:name
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:5:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:6:17-76
+	android:name
+		ADDED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml:6:27-74
+uses-sdk
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\236941dd3d101ad80a16141490387072\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\236941dd3d101ad80a16141490387072\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1be9a881eb1fc51636082ea72d36ac1b\transformed\activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1be9a881eb1fc51636082ea72d36ac1b\transformed\activity-compose-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1304da2b70224ebf8c774ba9d8050991\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1304da2b70224ebf8c774ba9d8050991\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\de8d537a2afc5f50491e45d2aa611e1e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\de8d537a2afc5f50491e45d2aa611e1e\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b83f6bf65c5d8db4667d1128ea3a3db7\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b83f6bf65c5d8db4667d1128ea3a3db7\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c343ce04db1986eedb8274127d6ba25f\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c343ce04db1986eedb8274127d6ba25f\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\998b97e7a26abde32164a2d4e30ef664\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\998b97e7a26abde32164a2d4e30ef664\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\65c6cafa850e5bc42b9b6dd4918f1897\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\65c6cafa850e5bc42b9b6dd4918f1897\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\74a94e519468a5d2fb060377f8944b19\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\74a94e519468a5d2fb060377f8944b19\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\97abb8ea0aae22c47677be8e9b3d32c7\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\97abb8ea0aae22c47677be8e9b3d32c7\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f4e0628d2aa80768e9c0a4435528bab3\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f4e0628d2aa80768e9c0a4435528bab3\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\906ca4284c2fa72fe8a426bace389f7e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\906ca4284c2fa72fe8a426bace389f7e\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2a44f1cf10fcee38c45d8a2525e16da9\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2a44f1cf10fcee38c45d8a2525e16da9\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3909ffe82b0207cec50a93f70ac6c888\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3909ffe82b0207cec50a93f70ac6c888\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\52786a7ac9b58fa7fd41944675f3e4b4\transformed\activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\52786a7ac9b58fa7fd41944675f3e4b4\transformed\activity-ktx-1.9.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\82040f35885d9815622e78788e624b36\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\82040f35885d9815622e78788e624b36\transformed\activity-1.9.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1ed8eb481d1adb35abb688bce82a5283\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1ed8eb481d1adb35abb688bce82a5283\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\161469b8c6080d1486d5cd869cd57d5e\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\161469b8c6080d1486d5cd869cd57d5e\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4adc37bacd5d22ba2312401cffc1b063\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4adc37bacd5d22ba2312401cffc1b063\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\0424446f18fd51fdc901c35613ac3f39\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\0424446f18fd51fdc901c35613ac3f39\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\67fbfd7b026d46b6fc600630311e9046\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\67fbfd7b026d46b6fc600630311e9046\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f134ca90cc1eb8aa74e6687d1d0a2d6e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\f134ca90cc1eb8aa74e6687d1d0a2d6e\transformed\lifecycle-livedata-core-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\14b38d15f3e333bc7da54315d42ce857\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\14b38d15f3e333bc7da54315d42ce857\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aab3988ca1df03725f710ec8512a6ca1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aab3988ca1df03725f710ec8512a6ca1\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\7ca032d7d5c1a04cfe7b729e5ef19cfa\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\7ca032d7d5c1a04cfe7b729e5ef19cfa\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\df7d8df45a73e7e0bca7a60474917767\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\df7d8df45a73e7e0bca7a60474917767\transformed\lifecycle-viewmodel-ktx-2.8.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\982a7ac726c01730271022c74aa805b7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\982a7ac726c01730271022c74aa805b7\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b808d6a678c24577cae8f49336562da3\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\b808d6a678c24577cae8f49336562da3\transformed\lifecycle-viewmodel-savedstate-2.8.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aa734d9b507f2f577d24fbd52290fe91\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\aa734d9b507f2f577d24fbd52290fe91\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c64bac3cdfd83751dfc29cc96118ede8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\c64bac3cdfd83751dfc29cc96118ede8\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\41b85097da6e20c724c91da8fe2bd92d\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.2] C:\Users\kaios\.gradle\caches\9.5.0\transforms\41b85097da6e20c724c91da8fe2bd92d\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\5c4d020356cedc1566ea3463989a2a05\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\5c4d020356cedc1566ea3463989a2a05\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2f1deae17e4e51d7a70d0f9d2e5988e9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\2f1deae17e4e51d7a70d0f9d2e5988e9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\617460aeb0f38576ec5b07df7a279620\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\617460aeb0f38576ec5b07df7a279620\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\86c893662776cc7ea25a1896387db3cc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\86c893662776cc7ea25a1896387db3cc\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1244535400ce6568d4bf006eb800166e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\1244535400ce6568d4bf006eb800166e\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kaios\OneDrive\Desktop\SOPHIA\EscolhaAleatoria\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\3ff828cc4059615dbf0fcd82e3370986\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\kaios\.gradle\caches\9.5.0\transforms\e199bfa74c6d3f0974aeccdadd269a1a\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.exemplo.escolhaaleatoria.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.exemplo.escolhaaleatoria.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\98ad9840d558a84f4da7a11291037b76\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.3] C:\Users\kaios\.gradle\caches\9.5.0\transforms\eea00bf5992f62ee2f9b6bae27b71a98\transformed\lifecycle-process-2.8.3\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\kaios\.gradle\caches\9.5.0\transforms\4f622c59c6612f223313743011083636\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
